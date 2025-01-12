@@ -6,5 +6,5 @@ Journey to 琅玕(Tree of Life), the first book in the Journey to... series, is 
 
 Welcome to A.L. Rouxell's world.
 
-<a href="https://www.rubikcube.ca/index.html" </strong> A.L.Rouxell </strong> </a>
+
 
