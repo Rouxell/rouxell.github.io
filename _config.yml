@@ -20,7 +20,7 @@ email: "alrouxell108@outlook.com"
 #########################################################################################
 theme: "minima"
 
-##### rss: rss
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
