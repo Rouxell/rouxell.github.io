@@ -1,12 +1,3 @@
-The Sacred Tree: The Young, The Beast, and The Masters 
-
-<a href="https://www.amazon.ca/dp/B0DYGK9GJJ">
-  <img src="/images/Tree-small.jpg" alt="The Best Path image" style="height: 200px; "/>
-</a>
-
-[View in amazon.ca](https://www.amazon.ca/dp/B0DYGK9GJJ)      
-[View in amazon.com](https://www.amazon.com/dp/B0DYGK9GJJ)
-
 The Best Path to Health, Youth, and Strength: Adapted, translated, and expanded from Jin Shijiu's Self-Acupuncture Records by A.L.Rouxell
 
 <a href="https://www.amazon.ca/dp/B0F5X48R3S">
